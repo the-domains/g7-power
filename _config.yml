@@ -1,0 +1,28 @@
+name: G7 Power
+favicon: null
+layout_spectrum: 0.6303959689103067
+typography_spectrum: 0.9086411679163575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7790207131765783
+  lightness: 0.7454288834705949
+  saturation: 0.17952920170500875
+  rhythmicContrast: 0.9444285759236664
+purpose: []
