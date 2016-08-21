@@ -1,20 +1,4 @@
-name: G7 Power
-favicon: null
-layout_spectrum: 0.6303959689103067
 typography_spectrum: 0.9086411679163575
-title: G7 Power
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,21 @@ color:
   lightness: 0.7454288834705949
   saturation: 0.17952920170500875
   rhythmicContrast: 0.9444285759236664
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6303959689103067
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: G7 Power
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: G7 Power
+description: Online Marketplace Supplier
 purpose: []
