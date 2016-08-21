@@ -4,8 +4,15 @@
         <description><![CDATA[G7 Power]]></description>
         <link>http://g7power.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 16:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 16:34:14 GMT</lastBuildDate>
         <atom:link href="http://g7power.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4337dfa7-63c8-4edb-b5fa-3f5dcb76b108.jpg" alt="Color and Dim Adjust Concept Switch Panel">]]></description>
+            <link>http://g7power.com/60e95e23-86c9-428e-b50d-138c30ec0f50/index.html</link>
+            <guid isPermaLink="false">60e95e23-86c9-428e-b50d-138c30ec0f50</guid>
+            <pubDate>Sun, 21 Aug 2016 16:34:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5073fdf-a0cc-4d69-9b09-cdaf44242a90.png" alt="Testing Vintage Style LED Bulbs">]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.amazon.com/dp/B00CRHG63Y</link>
             <guid isPermaLink="false">20a87013-d8d0-45c6-8772-52427c11efe9</guid>
             <pubDate>Sun, 21 Aug 2016 15:55:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4337dfa7-63c8-4edb-b5fa-3f5dcb76b108.jpg">]]></description>
-            <link>http://g7power.com/60e95e23-86c9-428e-b50d-138c30ec0f50/index.html</link>
-            <guid isPermaLink="false">60e95e23-86c9-428e-b50d-138c30ec0f50</guid>
-            <pubDate>Sun, 14 Aug 2016 21:51:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
