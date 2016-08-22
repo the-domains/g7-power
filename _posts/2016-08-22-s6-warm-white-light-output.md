@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-22T01:05:08.166Z'
+datePublished: '2016-08-22T01:06:46.970Z'
 sourcePath: _posts/2016-08-22-s6-warm-white-light-output.md
 author: []
 via: {}
-dateModified: '2016-08-22T01:05:07.812Z'
+dateModified: '2016-08-22T01:06:46.607Z'
 title: ''
 publisher: {}
 description: S6 Warm White Light Output
