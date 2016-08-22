@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-22T00:48:52.237Z'
+datePublished: '2016-08-22T01:06:10.265Z'
+sourcePath: _posts/2016-08-22-s6-night-light-fixture.md
 author: []
 via: {}
-dateModified: '2016-08-22T00:48:34.703Z'
+dateModified: '2016-08-22T01:06:09.893Z'
 title: ''
 publisher: {}
 description: S6 Night Light Fixture
 starred: false
-sourcePath: _posts/2016-08-22-s6-night-light-fixture.md
 inFeed: true
 hasPage: true
 inNav: false
